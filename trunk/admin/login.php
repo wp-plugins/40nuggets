@@ -7,9 +7,10 @@
 		$password = $GLOBALS['MY_REQUEST']["password"];
 		
 		if ($plugin->login($email, $password)){
+			$url = getURL("home");
 			echo "
 			<script type='text/javascript'>
-				window.location = '?page=40Nuggets';
+				window.location = '$url';
 			</script>";
 			exit;
 		}else{
