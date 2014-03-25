@@ -228,7 +228,7 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 
 	public function apiCall($api, $method="GET", $data_string=""){
 
-		$url = 'http://localhost/api/'.$api;  
+		$url = 'https://40nuggets.com/api/'.$api;  
 		$result = $this->httpCall($url, $method, $data_string);
 		
 		$json = json_decode($result);
