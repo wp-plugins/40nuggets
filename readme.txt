@@ -4,11 +4,11 @@ Donate link:
 Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO
 Requires at least: 3.3
 Tested up to: 3.5.1
-Stable tag: 0.1
+Stable tag: 1.1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Improve your Wordpress conversion rates.  Convert more visitors to leads by using intelligent overlay windows, and have a fully optimized conversion funnel for visitors.
+Improve your Wordpress conversion rates by using intelligent overlay windows and smart targeting technology.
 
 == Description ==
 
@@ -19,6 +19,8 @@ Your website's hard-won traffic should be converting: joining your mailing list,
 This is not only for growing your email list - you can use it for many goals, and to target inbound visitors in many ways, including from a specific ad or traffic source, a geographic region, and more. You can 
 
 [youtube https://www.youtube.com/watch?v=JTeCHEIT938]
+
+[Learn More on Our Homepage](http://40nuggets.com)
 
 == Smart Targeting ==
 
@@ -79,3 +81,18 @@ Install 40Nuggets via the Wordpress Plugin marketplace
 
 == Screenshots ==
 [youtube https://www.youtube.com/watch?v=JTeCHEIT938]
+
+1. Here's a Screenshot of your Dashboard Home View
+2. You have advanced analytics teaching you about user behavior
+3. Easily create and manage your overlays and other calls-to-action
+4. Here's an exit-intent call-to-action
+5. See full information on your converted visitors, including click tracks
+
+
+== Frequently Asked Questions ==
+
+You can find more information about 40Nuggets including plan costs at our website [40nuggets.com](http://40nuggets.com). You can sees our full support resources at our [Support Desk](http://zendesk.40nuggets.com)
+
+== Support ==
+
+Email us anytime at support@40nuggets.com or connect with us on Twitter @40nuggets
