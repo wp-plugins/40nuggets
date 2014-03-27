@@ -4,7 +4,7 @@
    Plugin URI: http://wordpress.org/extend/plugins/40nuggets/
    Version: 0.1
    Author: 40Nuggets
-   Description: Improve your Wordpress conversion rates.  Convert more visitors to leads by using intelligent overlay windows, and have a fully optimized conversion funnel for visitors. 
+   Description: Improve your Wordpress conversion rates by using intelligent overlay windows and smart targeting technology. 
    Text Domain: 40Nuggets
    License: GPL3
   */
