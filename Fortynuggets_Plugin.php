@@ -209,8 +209,7 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 						"password" => $password,
 						"title" => get_option('blogname'),
 						"url" => get_option('home'),
-						"subscription_type" => 1,
-						"frequency" => 1,
+						"is_wordpress" => true,
 						);
 		$json["client"] = $data;
 		$data_string = json_encode($json);	
@@ -234,7 +233,7 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 
 	public function apiCall($api, $method="GET", $data_string=""){
 
-		$url = 'https://40nuggets.com/api/'.$api;  
+		$url = 'http://localhost/api/'.$api;  
 		$result = $this->httpCall($url, $method, $data_string);
 		
 		$json = json_decode($result);
