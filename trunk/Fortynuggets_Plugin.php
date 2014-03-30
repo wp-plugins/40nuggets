@@ -76,6 +76,9 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 			$cookie = dirname(__FILE__) . '/fortynuggets.fnm';
 			file_put_contents($cookie, $options->cookie);
 		}
+		
+		//unfreeze account
+		$this->freeze_client(false);
 	}
 
     /**
@@ -88,6 +91,9 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 		$cookie = dirname(__FILE__) . '/fortynuggets.fnm';
 		$options->cookie = file_get_contents($cookie);
 		$this->save_options($options);
+		
+		//freeze account
+		$this->freeze_client(true);
     }
 
     /**
