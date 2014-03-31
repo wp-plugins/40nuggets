@@ -2,7 +2,7 @@
 /*
    Plugin Name: 40Nuggets
    Plugin URI: http://wordpress.org/extend/plugins/40nuggets/
-   Version: 0.2
+   Version: 0.3
    Author: 40Nuggets
    Description: Improve your Wordpress conversion rates by using intelligent overlay windows and smart targeting technology. 
    Text Domain: 40Nuggets
