@@ -4,7 +4,7 @@ Donate link:
 Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO
 Requires at least: 3.3
 Tested up to: 3.9
-Stable tag: 0.3
+Stable tag: 0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
