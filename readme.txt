@@ -3,8 +3,8 @@ Contributors: eliav@40nuggets.com
 Donate link: 
 Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO
 Requires at least: 3.3
-Tested up to: 3.9
-Stable tag: 0.4
+Tested up to: 3.9.1
+Stable tag: 0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -96,3 +96,10 @@ You can find more information about 40Nuggets including plan costs at our websit
 == Support ==
 
 Email us anytime at support@40nuggets.com or connect with us on Twitter @40nuggets
+
+== Changelog ==
+= 0.5 =
+* Better integration with 40Nuggets
+* Add CTA
+* Manage CTAs
+* Stats
