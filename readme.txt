@@ -1,23 +1,34 @@
-=== Wordpress Site Conversion Optimization by 40Nuggets ===
+=== Conversion Optimization by 40Nuggets ===
 Contributors: eliav@40nuggets.com
 Donate link: 
-Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO
+Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO, lead-capture, popup, popover, lightbox, light box, lightbox pop, light box pop, optin lead capture, web form, web forms, landing page, call to action, call-to-action
 Requires at least: 3.3
 Tested up to: 3.9.1
 Stable tag: 0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Improve your Wordpress conversion rates by using intelligent overlay windows and smart targeting technology.
+Convert more of your traffic to lead by using intelligent overlay popups and smart targeting.
 
 == Description ==
 
-Your website's hard-won traffic should be converting: joining your mailing list, talking to sales, engaging your social, and achieving other goals you set.  Overlay windows and popups or popovers are a powerful way to turn more of your traffic into leads. However, most of the popover tools on Wordpress are largely one-size fits all, meaning that your popover is only appropriate for a small percentage of your traffic. 40Nuggets is intelligent in that it adapts your overlays window's timing to the behavior of each and every user, giving you a huge competitive-advantage. Beyond that, 40Nuggets allows you to target by exit-intent, user-behavior, inbound referrer, geography, and much more. It's zero hassle to manage.
+If you are looking to grow your website's conversion rates, then you'll want to check out 40Nuggets. 40Nuggets brings you intelligent popups--delivered as a user-friendly 'lightboxes'--that will help you convert more of your website's hard-won traffic to join your mailing list, connected with sales, and achieved other business goals. 
 
-40Nuggets uses a unique mix of easy to deploy overlay windows, with the smartest machine learning technology, all aimed at bringing you a massive lift in your conversion rates. 
+Overlay popups are a powerful way to turn more of your traffic into leads. However, most of the popover tools on Wordpress are largely one-size fits all, meaning that your popover is only appropriate for a small percentage of your traffic. In many cases these popups serve to annoy your visitors, more than convert.
 
-This is not only for growing your email list - you can use it for many goals, and to target inbound visitors in many ways, including from a specific ad or traffic source, a geographic region, and more. You can 
+40Nuggets, however, is intelligent in that it adapts your popup's timing to the behavior of each and every user, giving you a huge competitive-advantage in conversions, while preserving the customer experience of your site. 40Nuggets comes with built in A/B testing--the test is managed automatically--so that you will always be a improving. 
 
+Beyond providing you with enterprise level intelligence and testing tools, 40Nuggets gives you as a marketer a powerful set of filters so that you can practice your craft. For example, 40Nuggets allows you to target by exit-intent (popping up just before someone leaves the page), user-behavior targeting, targeting by specific pages on your site, device-based targeting, inbound referrer, geography, and much more. It's zero hassle to manage.
+
+You can use 40Nuggets in place of frustrating landing page adjustment tools.
+
+Through web hooks (and tools like Zapier) 40Nuggets easily integrates with email service providers like MailChimp and Constant Contact. Moreover, you export all your data at anytime.
+
+40Nuggets uses a unique mix of easy to deploy overlay windows, with intelligent learning technology, all aimed at bringing you a massive lift in your conversion rates.
+
+40Nuggets' is not only for growing your email list - you can use it for many goals, and to target inbound visitors in many ways, including from a specific ad or traffic source, a geographic region, and more.
+
+Advanced users can access a complete HTML/CSS/JS 40Nuggets editor, allowing virtually any form of popup or adjustment to site zones. Moreover, advanced users can pass custom data to 40Nuggets, allowing for powerful targeting.
 [youtube https://www.youtube.com/watch?v=JTeCHEIT938]
 
 [Learn More on Our Homepage](http://40nuggets.com)
@@ -44,8 +55,8 @@ Why is this useful?
 
 Here are a few ways:
 
-* Targeting by territory: If you’re a seller that is focused on Ohio, for example, you can now be sure that your CTA’s are focused on approximately that population.
-* Language: You can use a CTA to welcome or engage visitors from different countries in their own language. This may significantly increase your conversion rates for those regions.
+* Targeting by territory: If you’re a seller that is focused on Ohio, for example, you can now be sure that your popups are focused on approximately that population.
+* Language: You can use a popup to welcome or engage visitors from different countries in their own language. This may significantly increase your conversion rates for those regions.
 * Targeted discounts: You can offer shipping discounts to regions where it might make the difference in the buying decision.
 * Targeted Announcements: You can make announcements to people based on region.
 
@@ -63,7 +74,7 @@ Using Salesforce, Mailchimp, Aweber, Zapier, or systems? Want to send 40Nuggets 
 
 == Goals ==
 
-40Nuggets provides you with out of the box settings for some of the most important goals on your website. You'll see them any time you try to create a CTA.
+40Nuggets provides you with ready made popup settings for some of the most important goals on your website. You'll see them any time you try to create a popup.
 
 It's easy, it's smart, and it's streamlined.
 
