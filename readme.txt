@@ -1,4 +1,4 @@
-=== Wordpress Site Conversion Optimization by 40Nuggets ===
+=== Conversion Optimization by 40Nuggets ===
 Contributors: eliav@40nuggets.com
 Donate link: 
 Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO, lead-capture, popup, popover, lightbox, light box, lightbox pop, light box pop, optin lead capture, web form, web forms, landing page, call to action, call-to-action, 40Nuggets
@@ -19,7 +19,7 @@ Overlay popups are a powerful way to turn more of your traffic into leads. Howev
 40Nuggets is different. It provides you advanced segmentation tools, so you can customize messages to specific pages, specific visitors types, and more. Moreover, it puts algorithmic intelligence at your finger tips: with the check of a box your popup's timing will be adapted to the behavior of each and every user, giving you a huge competitive-advantage in conversions, while preserving the customer experience of your site. Moreover, 40Nuggets comes with built in A/B testing--the test is managed automatically--so that you will always be a improving. 
 
 **
-Here's a quote from a 40Nuggets Customer, Galya Harish, CEO of Rose of Bethlehem, a boutique jewelry eCommerce seller. In 45 days, 40Nuggets increased Rose's by 10x: 
+Here's a quote from a 40Nuggets Customer, Galya Harish, CEO of Rose of Bethlehem, a boutique jewelry eCommerce seller. In 45 days, 40Nuggets increased Rose's conversion rate by 10x: 
 
 <blockquote>"40Nuggets quite simply got us more leads from our traffic without once having to resort to programmers. We could do sophisticated targeting, and make changes on the fly -- their algorithms made it all work. We saved money because we captured numerous sales leads for much less the cost of acquiring them otherwise."</blockquote>
 
