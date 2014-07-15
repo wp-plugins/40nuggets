@@ -6,13 +6,13 @@ Requires at least: 3.3
 Tested up to: 3.9.1
 Stable tag: 0.5
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
 Convert more of your traffic to leads by using intelligent overlay popups and smart targeting.
 
 == Description ==
 
-Are looking to grow your website's conversion rates? If so, you'll want to check out 40Nuggets. 40Nuggets brings you intelligent popups--delivered as user-friendly lightboxes--that will grow your mailing list, drive leads to sales, and achieve other business goals. You'll have full-control of your popups while benefiting from built-in intelligence, A/B testing, and advanced segmentation tools. Above all, 40Nuggets' popups will enhance your site-visitor experience while bringing you the results you need - and no coding required! Try our absolutely free 14-day trial with our basic package and see how 40Nuggets can get you more conversions. For more information on pricing and plans starting as low as $37 click [here](https://40nuggets.com/#plans).
+Are looking to grow your website's conversion rates? If so, you'll want to check out 40Nuggets. 40Nuggets brings you intelligent popups--delivered as user-friendly lightboxes--that will grow your mailing list, drive leads to sales, and achieve other business goals. You'll have full-control of your popups while benefiting from built-in intelligence, A/B testing, and advanced segmentation tools. Above all, 40Nuggets' popups will enhance your site-visitor experience while bringing you the results you need - and no coding required! Try our absolutely free 30-day trial with our basic package and see how 40Nuggets can get you more conversions. For more information on pricing and plans starting as low as $37 click [here](https://40nuggets.com/#plans).
 
 Overlay popups are a powerful way to turn more of your traffic into leads. However, most of the popover tools on Wordpress are largely one-size fits all, meaning that your popover is only appropriate for a small percentage of your traffic. In many cases these popups serve to annoy your visitors, rather than convert them
 
@@ -23,7 +23,7 @@ Here's a quote from a 40Nuggets Customer, Galya Harish, CEO of Rose of Bethlehem
 
 <blockquote>"40Nuggets quite simply got us more leads from our traffic without once having to resort to programmers. We could do sophisticated targeting, and make changes on the fly -- their algorithms made it all work. We saved money because we captured numerous sales leads for much less the cost of acquiring them otherwise."</blockquote>
 
-[Download the case study here.](http://blog.40nuggets.com/latest-ecommerce-case-study-from-40nuggets/)
+[Download the case study here.](http://blog.40nuggets.com/latest-ecommerce-case-study-from-40nuggets/ )
 **
 
 
@@ -31,7 +31,7 @@ Beyond providing you with enterprise level intelligence and testing tools, 40Nug
 
 Watch a quick video tutorial of how to setup and launch your first intelligent call-to-action popover through Wordpress: 
 
-[youtube https://www.youtube.com/watch?v=uyYYAT-7H8E&feature=youtu.be]
+[youtube https://www.youtube.com/watch?v=uyYYAT-7H8E&feature=youtu.be ]
 
 You can use 40Nuggets in place of frustrating landing page adjustment tools.
 
@@ -45,9 +45,9 @@ Advanced users can access a complete HTML/CSS/JS 40Nuggets editor, allowing virt
 
 Here's a general overview of the product: 
 
-[youtube https://www.youtube.com/watch?v=JTeCHEIT938]
+[youtube https://www.youtube.com/watch?v=JTeCHEIT938 ]
 
-[Learn More on Our Homepage](http://40nuggets.com)
+[Learn More on Our Homepage](http://40nuggets.com )
 
 == Smart Targeting ==
 
@@ -107,7 +107,7 @@ Install 40Nuggets via the Wordpress Plugin marketplace
 6. Follow instructions to enter your dashboard an account
 
 == Screenshots ==
-[youtube https://www.youtube.com/watch?v=JTeCHEIT938]
+[youtube https://www.youtube.com/watch?v=JTeCHEIT938 ]
 
 1. Here's a Screenshot of your Dashboard Home View
 2. You have advanced analytics teaching you about user behavior
@@ -119,15 +119,15 @@ Install 40Nuggets via the Wordpress Plugin marketplace
 
 == Frequently Asked Questions ==
 
-You can find more information about 40Nuggets including plan costs at our website [40nuggets.com](http://40nuggets.com). You can sees our full support resources at our [Support Desk](http://zendesk.40nuggets.com)
+You can find more information about 40Nuggets including plan costs at our website [40nuggets.com ](http://40nuggets.com ). You can sees our full support resources at our [Support Desk](http://zendesk.40nuggets.com )
 
 1. Where can I find pricing for 40Nuggets? 
 
-Upon installation you'll immediately activate our totally free-trial, no credit card required, basic plan. You can see information about our plans at [40Nuggets.com](http://40Nuggets.com). Also, few days after you start using 40Nuggets you'll see a prompt in your dashboard directing you to more information about 40Nugget's plans.
+Upon installation you'll immediately activate our totally free-trial, no credit card required, basic plan. You can see information about our plans at [40Nuggets.com](http://40Nuggets.com ). Also, few days after you start using 40Nuggets you'll see a prompt in your dashboard directing you to more information about 40Nugget's plans.
 
 2. Are there more video tutorials for 40Nuggets?
 
-Yes! Head on over to [Support Desk](http://zendesk.40nuggets.com) and look for the video tutorial section.
+Yes! Head on over to [Support Desk](http://zendesk.40nuggets.com ) and look for the video tutorial section.
 
 3. How does A/B testing work? 
 
@@ -139,7 +139,7 @@ Absolutely.
 
 First, you can always export your conversion data. Simply go to Conversions, sort as you like, and click on the little people icon in the upper left. You'll see a link to export. 
 
-Second, you can use a web hook (you'll see this in the Settings>Upon Completion section of the lightbox creation widget) to push data to any URL you like. This is also great for working with tools like Zapier. See our tutorial for working with Zapier over on our [Support Desk](http://zendesk.40nuggets.com).
+Second, you can use a web hook (you'll see this in the Settings>Upon Completion section of the lightbox creation widget) to push data to any URL you like. This is also great for working with tools like Zapier. See our tutorial for working with Zapier over on our [Support Desk](http://zendesk.40nuggets.com ).
 
 5. Can I export my conversion data? 
 
@@ -155,7 +155,7 @@ Yes. You can always save a call-to-action as a draft, and then use the small mag
 
 == Support ==
 
-Email us anytime at support@40nuggets.com or connect with us on Twitter [@40nuggets](twitter.com/40nuggets)
+Email us anytime at support@40nuggets.com or connect with us on Twitter [@40nuggets](twitter.com/40nuggets )
 
 == Changelog ==
 = 0.5 =
