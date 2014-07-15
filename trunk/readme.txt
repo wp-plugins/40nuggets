@@ -12,7 +12,7 @@ Convert more of your traffic to leads by using intelligent overlay popups and sm
 
 == Description ==
 
-Are looking to grow your website's conversion rates? If so, you'll want to check out 40Nuggets. 40Nuggets brings you intelligent popups--delivered as user-friendly lightboxes--that will grow your mailing list, drive leads to sales, and achieve other business goals. You'll have full-control of your popups while benefiting from built-in intelligence, A/B testing, and advanced segmentation tools. Above all, 40Nuggets' popups will enhance your site-visitor experience while bringing you the results you need - and no coding required!
+Are looking to grow your website's conversion rates? If so, you'll want to check out 40Nuggets. 40Nuggets brings you intelligent popups--delivered as user-friendly lightboxes--that will grow your mailing list, drive leads to sales, and achieve other business goals. You'll have full-control of your popups while benefiting from built-in intelligence, A/B testing, and advanced segmentation tools. Above all, 40Nuggets' popups will enhance your site-visitor experience while bringing you the results you need - and no coding required! Try our absolutely free 14-day trial with our basic package and see how 40Nuggets can get you more conversions. For more information on pricing and plans starting as low as $37 click [here]. (https://40nuggets.com/#plans)
 
 Overlay popups are a powerful way to turn more of your traffic into leads. However, most of the popover tools on Wordpress are largely one-size fits all, meaning that your popover is only appropriate for a small percentage of your traffic. In many cases these popups serve to annoy your visitors, rather than convert them
 
@@ -71,7 +71,7 @@ Why is this useful?
 
 Here are a few ways:
 
-* Targeting by territory: If youÕre a seller that is focused on Ohio, for example, you can now be sure that your popups are focused on approximately that population.
+* Targeting by territory: If you?re a seller that is focused on Ohio, for example, you can now be sure that your popups are focused on approximately that population.
 * Language: You can use a popup to welcome or engage visitors from different countries in their own language. This may significantly increase your conversion rates for those regions.
 * Targeted discounts: You can offer shipping discounts to regions where it might make the difference in the buying decision.
 * Targeted Announcements: You can make announcements to people based on region.
@@ -99,12 +99,12 @@ It's easy, it's smart, and it's streamlined.
 
 Install 40Nuggets via the Wordpress Plugin marketplace
 
-	1. In your Admin, go to menu Plugins > Add
-	2. Search for '40Nuggets'
-	3. Click to install
-	4. Activate the plugin
-	5. A new menu '40Nuggets' will appear in your Admin
-	6. Follow instructions to enter your dashboard an account
+1. In your Admin, go to menu Plugins > Add
+2. Search for '40Nuggets'
+3. Click to install
+4. Activate the plugin
+5. A new menu '40Nuggets' will appear in your Admin
+6. Follow instructions to enter your dashboard an account
 
 == Screenshots ==
 [youtube https://www.youtube.com/watch?v=JTeCHEIT938]
