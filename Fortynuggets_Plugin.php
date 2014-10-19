@@ -262,7 +262,7 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 		curl_setopt($ch, CURLOPT_COOKIEFILE, $cookie);	
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);                                                                      
 		curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+		//curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
 		curl_setopt($ch, CURLOPT_USERAGENT,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.52 Safari/537.17 WordPressPlugin/{$savedVersion}");
 		
 		if (isset($method)) 		curl_setopt($ch, CURLOPT_CUSTOMREQUEST, $method);                                                                     
