@@ -3,8 +3,8 @@ Contributors: eliav@40nuggets.com
 Donate link: 
 Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO, lead-capture, popup, popover, lightbox, light box, lightbox pop, light box pop, optin lead capture, web form, web forms, landing page, call to action, call-to-action, 40Nuggets
 Requires at least: 3.3
-Tested up to: 3.9.1
-Stable tag: 0.5
+Tested up to: 4.0
+Stable tag: 0.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
@@ -158,6 +158,8 @@ Yes. You can always save a call-to-action as a draft, and then use the small mag
 Email us anytime at support@40nuggets.com or connect with us on Twitter [@40nuggets](twitter.com/40nuggets )
 
 == Changelog ==
+= 0.5.1 =
+Fix issue where CURLOPT_FOLLOWLOCATION cannot be activated when safe_mode is enabled
 = 0.5 =
 * Better integration with 40Nuggets
 * Add CTA
