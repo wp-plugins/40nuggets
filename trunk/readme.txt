@@ -28,7 +28,7 @@ Here's a quote from a 40Nuggets Customer, Galya Harish, CEO of Rose of Bethlehem
 More testimonials:
 
 Rich from IXACT Contact, a CRM for Real Estate Agents: 
-<blockquote>"We're a self-made business and make every marketing dollar count. We switched to 40Nuggets from another technology and saw a 500% growth in lead conversions...this translated into thousands of dollars to our monthly top-line."<blockquote>
+<blockquote>"We're a self-made business and make every marketing dollar count. We switched to 40Nuggets from another technology and saw a 500% growth in lead conversions...this translated into thousands of dollars to our monthly top-line"</blockquote>
 
 Keith from MTI Equipment: 
 <blockquote>"As soon as we signed up I noticed we were getting more leads. They made it so easy for people to do...I would highly recommend 40Nuggets to any of my friends looking to get more leads...but not my competitors"</blockquote>
@@ -40,7 +40,7 @@ Beyond providing you with enterprise level intelligence and testing tools, 40Nug
 
 Watch a quick video tutorial of how to setup a Nugget:
 
-[youtube http://youtu.be/m4IuEznrM7g]
+[youtube http://www.youtube.com/watch?v=m4IuEznrM7g]
 
 You can use 40Nuggets in place of frustrating landing page adjustment tools.
 
