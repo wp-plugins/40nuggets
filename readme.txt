@@ -27,7 +27,8 @@ Here's a quote from a 40Nuggets Customer, Galya Harish, CEO of Rose of Bethlehem
 
 More testimonials:
 
-Rich from IXACT Contact, a CRM for Real Estate Agents: <blockquote>"We're a self-made business and make every marketing dollar count. We switched to 40Nuggets from another technology and saw a 500% growth in lead conversions...this translated into thousands of dollars to our monthly top-line."<blockquote>
+Rich from IXACT Contact, a CRM for Real Estate Agents: 
+<blockquote>"We're a self-made business and make every marketing dollar count. We switched to 40Nuggets from another technology and saw a 500% growth in lead conversions...this translated into thousands of dollars to our monthly top-line."<blockquote>
 
 Keith from MTI Equipment: 
 <blockquote>"As soon as we signed up I noticed we were getting more leads. They made it so easy for people to do...I would highly recommend 40Nuggets to any of my friends looking to get more leads...but not my competitors"</blockquote>
