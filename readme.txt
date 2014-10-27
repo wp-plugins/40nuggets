@@ -12,46 +12,50 @@ Convert more of your traffic to leads by using intelligent overlay popups and sm
 
 == Description ==
 
-Are looking to grow your website's conversion rates? If so, you'll want to check out 40Nuggets. 40Nuggets brings you intelligent popups--delivered as user-friendly lightboxes--that will grow your mailing list, drive leads to sales, and achieve other business goals. You'll have full-control of your popups while benefiting from built-in intelligence, A/B testing, and advanced segmentation tools. Above all, 40Nuggets' popups will enhance your site-visitor experience while bringing you the results you need - and no coding required! Try our absolutely free 30-day trial with our basic package and see how 40Nuggets can get you more conversions. For more information on pricing and plans starting as low as $37 click [here](https://40nuggets.com/#plans).
+Are you looking to grow your website's conversion rates? If so, you'll want to check out 40Nuggets. 40Nuggets is an easy-to-use tool that sends intelligent, polite, and timely messages, or as we like to call them Nuggets, to your site visitors. Nuggets are intelligent popups--delivered as user-friendly lightboxes--that will grow your mailing list, drive leads to sales, and achieve other business goals. You'll have full-control over your nuggets while benefiting from built-in intelligence, A/B testing, and advanced segmentation tools. Above all, nuggets will enhance your site-visitor experience while bringing you the results you need - and no coding required! Try our absolutely free 30-day trial with our basic package and see how 40Nuggets can get you more conversions. For more information on pricing and plans starting as low as $37 click [here](https://40nuggets.com).
 
-Overlay popups are a powerful way to turn more of your traffic into leads. However, most of the popover tools on Wordpress are largely one-size fits all, meaning that your popover is only appropriate for a small percentage of your traffic. In many cases these popups serve to annoy your visitors, rather than convert them
+Overlay popups are a powerful way to turn more of your traffic into leads. However, most of the popover tools on Wordpress are largely one-size fits all, meaning that your popover is only appropriate for a small percentage of your traffic. In many cases these popups serve to annoy your visitors, rather than convert them.
 
-40Nuggets is different. It provides you advanced segmentation tools, so you can customize messages to specific pages, specific visitors types, and more. Moreover, it puts algorithmic intelligence at your finger tips: with the check of a box your popup's timing will be adapted to the behavior of each and every user, giving you a huge competitive-advantage in conversions, while preserving the customer experience of your site. Moreover, 40Nuggets comes with built in A/B testing--the test is managed automatically--so that you will always be a improving. 
+40Nuggets is different. It provides you advanced segmentation tools, so you can customize messages to specific pages, specific visitors types, and more. Moreover, it puts algorithmic intelligence at your finger tips: your popup's timing will be adapted to the behavior of each and every user, giving you a huge competitive-advantage in conversions, while preserving the customer experience of your site. Moreover, nuggets comes with A/B testing--the test is managed automatically--so that you will always be a improving. Nuggets come in different shapes with ready made customizable themes.
 
 **
 Here's a quote from a 40Nuggets Customer, Galya Harish, CEO of Rose of Bethlehem, a boutique jewelry eCommerce seller. In 45 days, 40Nuggets increased Rose's conversion rate by 10x: 
 
 <blockquote>"40Nuggets quite simply got us more leads from our traffic without once having to resort to programmers. We could do sophisticated targeting, and make changes on the fly -- their algorithms made it all work. We saved money because we captured numerous sales leads for much less the cost of acquiring them otherwise."</blockquote>
 
-[Download the case study here.](http://blog.40nuggets.com/latest-ecommerce-case-study-from-40nuggets/ )
+[Download the case study here.](http://blog.40nuggets.com/latest-ecommerce-case-study-from-40nuggets/)
+
+More testimonials:
+
+Rich from IXACT Contact, a CRM for Real Estate Agents: <blockquote>"We're a self-made business and make every marketing dollar count. We switched to 40Nuggets from another technology and saw a 500% growth in lead conversions...this translated into thousands of dollars to our monthly top-line."<blockquote>
+
+Keith from MTI Equipment: 
+<blockquote>"As soon as we signed up I noticed we were getting more leads. They made it so easy for people to do...I would highly recommend 40Nuggets to any of my friends looking to get more leads...but not my competitors"</blockquote>
+
 **
 
 
 Beyond providing you with enterprise level intelligence and testing tools, 40Nuggets gives you as a marketer a powerful set of filters so that you can practice your craft. For example, 40Nuggets allows you to target by exit-intent (popping up just before someone leaves the page), user-behavior targeting, targeting by specific pages on your site, device-based targeting, inbound referrer, geography, and much more. It's zero hassle to manage.
 
-Watch a quick video tutorial of how to setup and launch your first intelligent call-to-action popover through Wordpress: 
+Watch a quick video tutorial of how to setup a Nugget:
 
-[youtube https://www.youtube.com/watch?v=uyYYAT-7H8E&feature=youtu.be ]
+[youtube http://youtu.be/m4IuEznrM7g]
 
 You can use 40Nuggets in place of frustrating landing page adjustment tools.
 
-Through web hooks (and tools like Zapier) 40Nuggets easily integrates with email service providers like MailChimp and Constant Contact. Moreover, you export all your data at anytime.
+40Nuggets has built-in integration with Mailchimp. Through web hooks (and tools like Zapier) 40Nuggets easily integrates with email service providers like Constant Contact and others. Moreover, you export all your data at anytime.
 
-40Nuggets uses a unique mix of easy to deploy overlay windows, with intelligent learning technology, all aimed at bringing you a massive lift in your conversion rates.
+40Nuggets uses a unique mix of easy to deploy nuggets, with intelligent learning technology, all aimed at bringing you a massive lift in your conversion rates.
 
 40Nuggets' is not only for growing your email list - you can use it for many goals, and to target inbound visitors in many ways, including from a specific ad or traffic source, a geographic region, and more.
 
-Advanced users can access a complete HTML/CSS/JS 40Nuggets editor, allowing virtually any form of popup or adjustment to site zones. Moreover, advanced users can pass custom data to 40Nuggets, allowing for powerful targeting.
+Advanced users can access a complete HTML/CSS/JS 40Nuggets editor, allowing virtually any form of nugget or adjustment to a website. This is great for tech-oriented web masters and marketing agencies . Moreover, advanced users can pass custom data to 40Nuggets, allowing for powerful targeting (contact us).
 
-Here's a general overview of the product: 
-
-[youtube https://www.youtube.com/watch?v=JTeCHEIT938 ]
-
-[Learn More on Our Homepage](http://40nuggets.com )
+[Learn More on Our Homepage](https://40nuggets.com )
 
 == Smart Targeting ==
 
-40Nuggets plugin can track audience behavior on your site so as to make sure each inbound visitor is being targeted at the right time with the overlay that they're most likely to convert on. 
+40Nuggets plugin can learn audience behavior on your site so as to make sure each inbound visitor is being targeted at the right time with the nugget that they're most likely to convert on. 
 
 == Exit Targeting ==
 
@@ -80,9 +84,12 @@ Here are a few ways:
 
 A/B testing allows you to design different variants of the same call-to-action so you can pinpoint exactly what elements produce the highest conversions.  It's a sophisticated combination of design control for your marketing team, paired with the automated intelligence of 40Nuggets. Our brain automatically optimizes the highest converting variant, presenting it more often, so you can sit back and relax as 40Nuggets does the heavy lifting for you. It's that simple.
 
+Learn how to set up an A/B Nugget: 
+[youtube http://youtu.be/t-wHOX6bzHs]
+
 == Referral Targeting ==
 
-Do you want to show something only to people inbound from Facebook, or Twitter, or a specific Google ad? Well, now you can with referral targeting. Simply assign an overlay window to a an inbound referral source and it will only show up for those visitors.
+Do you want to show something only to people inbound from Social, Paid, or Organic? Well, now you can with source targeting. Simply assign an overlay window to a an inbound referral source and it will only show up for those visitors.
 
 == Webhooks ==
 
@@ -107,14 +114,13 @@ Install 40Nuggets via the Wordpress Plugin marketplace
 6. Follow instructions to enter your dashboard an account
 
 == Screenshots ==
-[youtube https://www.youtube.com/watch?v=JTeCHEIT938 ]
 
 1. Here's a Screenshot of your Dashboard Home View
-2. You have advanced analytics teaching you about user behavior
-3. Easily create and manage your overlays and other calls-to-action
-4. Here's an exit-intent call-to-action
-5. See full information on your converted visitors, including click tracks
-6. Easy call-to-action lightbox popup creation wizard
+2. You have an easy to manage nugget creator
+3. Easily set up A/B Split tests
+4. Manage your nuggets from a central dashboard
+5. A large B2B nugget in action
+6. Easily send your leads to email programs like Mailchimp, tools like Zapier, and via email
 
 
 == Frequently Asked Questions ==
@@ -123,7 +129,7 @@ You can find more information about 40Nuggets including plan costs at our websit
 
 1. Where can I find pricing for 40Nuggets? 
 
-Upon installation you'll immediately activate our totally free-trial, no credit card required, basic plan. You can see information about our plans at [40Nuggets.com](http://40Nuggets.com ). Also, few days after you start using 40Nuggets you'll see a prompt in your dashboard directing you to more information about 40Nugget's plans.
+Upon installation you'll immediately activate our totally free-trial, no credit card required, basic plan. You can see information about our plans at [40Nuggets.com](https://40Nuggets.com ). Also, few days after you start using 40Nuggets you'll see a prompt in your dashboard directing you to more information about 40Nugget's plans.
 
 2. Are there more video tutorials for 40Nuggets?
 
@@ -139,7 +145,9 @@ Absolutely.
 
 First, you can always export your conversion data. Simply go to Conversions, sort as you like, and click on the little people icon in the upper left. You'll see a link to export. 
 
-Second, you can use a web hook (you'll see this in the Settings>Upon Completion section of the lightbox creation widget) to push data to any URL you like. This is also great for working with tools like Zapier. See our tutorial for working with Zapier over on our [Support Desk](http://zendesk.40nuggets.com ).
+Second, you can use a web hook (you'll see this in the advanced settings of the Setup part of the nugget creator) to push data to any URL you like. This is also great for working with tools like Zapier. See our tutorial for working with Zapier over on our [Support Desk](http://zendesk.40nuggets.com ).
+
+Finally, we released an integration with MailChimp. You can find more within the dashboard or on our support hub.
 
 5. Can I export my conversion data? 
 
@@ -149,9 +157,9 @@ Yes, you can always export your conversion data. Simply go to Conversions, sort 
 
 All the data that a site-visitor enters into a popup on your site will be shown under the Conversions tab on your 40Nuggets dashboard. 
 
-7. Can I preview my call-to-action before publishing? 
+7. Can I preview my nugget before publishing? 
 
-Yes. You can always save a call-to-action as a draft, and then use the small magnifying glass icon on the Calls to Action dashboard to see a preview. Some functionality like submit, redirect, and web hooks may not be available in the preview mode.
+Yes. You can always save a nuggetas a draft, and then use the small magnifying glass icon on the Calls to Action dashboard to see a preview. Some functionality like submit, redirect, and web hooks may not be available in the preview mode.
 
 == Support ==
 
