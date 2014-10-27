@@ -116,11 +116,11 @@ Install 40Nuggets via the Wordpress Plugin marketplace
 == Screenshots ==
 
 1. Here's a Screenshot of your Dashboard Home View
-2. You have advanced analytics teaching you about user behavior
-3. Easily create and manage your overlays and other calls-to-action
-4. Here's an exit-intent call-to-action
-5. See full information on your converted visitors, including click tracks
-6. Easy call-to-action lightbox popup creation wizard
+2. You have an easy to manage nugget creator
+3. Easily set up A/B Split tests
+4. Manage your nuggets from a central dashboard
+5. A large B2B nugget in action
+6. Easily send your leads to email programs like Mailchimp, tools like Zapier, and via email
 
 
 == Frequently Asked Questions ==
