@@ -21,7 +21,7 @@ function FortyNuggets_create_submenu_exteranl_link() {
 	//sub-menus
 	global $submenu;
 	$submenu['40Nuggets'][0] = array( 'Add New', 'manage_options' , getURL("ctaBuilder"));
-	$submenu['40Nuggets'][1] = array( 'Manage CTAs', 'manage_options' , getURL("callsToAction"));
+	$submenu['40Nuggets'][1] = array( 'Manage Nuggets', 'manage_options' , getURL("callsToAction"));
 	$submenu['40Nuggets'][2] = array( 'Stats', 'manage_options' , getURL("home"));
 
 }
