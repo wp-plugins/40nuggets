@@ -237,15 +237,7 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 		$result = $this->httpCall($url, $method, $data_string);
 		
 		$json = json_decode($result);
-		
-		if (isset($json->error)){
-			switch ($json->error->code){
-				case 403005: 
-					echo "<script type='text/JavaScript'>window.location='?page=40Nuggets-login';</script>";
-					break;
-			}
-		}
-		
+				
 		return $json;
 	}
 	
