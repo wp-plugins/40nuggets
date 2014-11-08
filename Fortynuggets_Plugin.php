@@ -39,27 +39,13 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 		if (!is_admin()) {
 			$options = $this->get_options();
 			if (!empty($options->api_key)){
-				add_action('wp_head', array(&$this,'add_tracking_code'));
+				wp_register_script('40nm-tracking', plugins_url('/js/track.js', __FILE__),false, $this->getVersionSaved());
+				wp_localize_script('40nm-tracking', '_40nmcid', $options->api_key);
+				wp_enqueue_script ('40nm-tracking');
 			}
 		}
     }
-	
-	public function add_tracking_code(){
-		$options = $this->get_options();
-		echo "<!-- 40Nuggets Starts -->
-<script type='text/javascript'>
-	var _40nmcid = '{$options->api_key}';
-	(function() {
-		var nm = document.createElement('script'); nm.type = 'text/javascript'; nm.async = true;
-		nm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 
-		'40nuggets.com/widget/js/track/track-'+_40nmcid+'.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(nm,s);
-	})();
-</script>
-<!-- 40Nuggets Ends -->
-";
-	}	
-	
+		
 	public function login($email, $password){
 		$data = array(
 			"email" => $email,

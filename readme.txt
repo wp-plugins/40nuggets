@@ -4,7 +4,7 @@ Donate link:
 Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO, lead-capture, popup, popover, lightbox, light box, lightbox pop, light box pop, optin lead capture, web form, web forms, landing page, call to action, call-to-action, 40Nuggets
 Requires at least: 3.3
 Tested up to: 4.0
-Stable tag: 0.6
+Stable tag: 0.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
@@ -167,6 +167,8 @@ Yes. You can always save a nuggetas a draft, and then use the small magnifying g
 Email us anytime at support@40nuggets.com or connect with us on Twitter [@40nuggets](twitter.com/40nuggets )
 
 == Changelog ==
+= 0.6.1 =
+Fix issue where Nugget shows twice on the same page
 = 0.6 = 
 New Nugget creator
 New Nugget management system
