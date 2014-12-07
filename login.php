@@ -4,7 +4,6 @@ $form = get_magic_quotes_gpc() ? my_stripslashes_deep($_REQUEST) : $_REQUEST;
 
 if (isset($form['redeem-account'])){
 	//login		
-	$plugin = new Fortynuggets_Plugin();
 	if ($plugin->login($form["email"], $form["password"])){
 		$url = $plugin->getURL("home");
 		$url = $plugin->getURL("home");
@@ -19,7 +18,15 @@ if (isset($form['redeem-account'])){
 		showLoginForm($form["email"]);
 	}
 }else{
-	showLoginForm(get_option('admin_email'));
+	$email = get_option('admin_email');
+	try {
+		$file = plugin_dir_path(__FILE__) . 'fortynuggets.key';
+		if (file_exists($file)){
+			$data = json_decode(file_get_contents($file));
+			$email = $data->email;
+		}
+	}catch(Exception $e) {}
+	showLoginForm($email);
 }
 
 function showLoginForm($email){
@@ -28,9 +35,7 @@ function showLoginForm($email){
 	<form method="POST" action="">
 		<h2>Attach your site to an existing account</h2>
 		<p class="description">
-			If you already have an existing account, e.g. you are migrating your old
-			site or you want to use a single 40Nuggets account on multiple websites,
-			just enter your login and password below.
+			If you already have an existing account just enter your login and password below.
 		</p>
 		<table class="form-table">
 			<tbody>

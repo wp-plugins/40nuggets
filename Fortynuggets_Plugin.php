@@ -16,7 +16,14 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
     public function activate() {
 		$options = $this->get_options();
 		if (empty($options->email)){
-			$this->create_client();
+			$shouldOpenAccount = true;
+			try {
+				$shouldOpenAccount = !file_exists(plugin_dir_path(__FILE__) . 'fortynuggets.key');
+			}catch(Exception $e) {}
+			
+			if ($shouldOpenAccount) {
+				$this->create_client();
+			}
 		}else{
 			$this->login($options->email, $options->password);
 		}
