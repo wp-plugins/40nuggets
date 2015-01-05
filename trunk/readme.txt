@@ -12,12 +12,27 @@ Convert more of your traffic to leads by using intelligent overlay popups and sm
 
 == Description ==
 
-**Looking to grow your website's conversion rates? 40Nuggets is your easy solution.**
+**Looking to grow your website's conversions without spamming your visitors? 40Nuggets is your easy solution.**
 
-* 40Nuggets is an easy-to-use tool that sends intelligent, polite and timely messages -- what we call Nuggets -- to your visitors.
-* Nuggets are intelligent overlay popups --user-friendly lightboxes--that will grow your mailing list, drive leads to sales, stop shopping cart abandonment, trigger for exit intent and more!
-* Nuggets are easy to control and customize using built-in intelligence, A/B testing, and advanced segmentation tools.
+* Improve conversion rates by up to 40%
+* Build your newsletter opt-in list
+* Offer coupons
+* Capture bouncing traffic (exit-intent)
+* Support your visitors
+ 
+**Features:**
+
+* Select a theme or customize your own
+* Mobile friendly
+* Geo-targeting
+* A/B testing
+* Target visitors with advanced timing technology
+* Send data directly to MailChimp or others
 * ZERO coding required!
+
+[youtube http://www.youtube.com/watch?v=m4IuEznrM7g]
+
+[Learn More on Our Homepage](https://40nuggets.com )
 
 *Try our absolutely free 30-day trial with our basic package and see how 40Nuggets can get you more conversions. For more information on pricing and plans starting as low as $37 [click here](https://40nuggets.com).*
 
@@ -32,17 +47,20 @@ Nuggets are customizable in any language - use geo targeting to create Nuggets f
 **
 Here's a quote from a 40Nuggets Customer, Galya Harish, CEO of Rose of Bethlehem, a boutique jewelry eCommerce seller. In 45 days, 40Nuggets increased Rose's conversion rate by 10x: 
 
-<blockquote>"40Nuggets quite simply got us more leads from our traffic without once having to resort to programmers. We could do sophisticated targeting, and make changes on the fly -- their algorithms made it all work. We saved money because we captured numerous sales leads for much less the cost of acquiring them otherwise."</blockquote>
+<blockquote>"40Nuggets quite simply got us more leads from our traffic without once having to resort to programmers. We could do sophisticated targeting, and make changes on the fly -- their algorithms made it all work. We saved money because we captured numerous sales leads for much less the cost of acquiring them otherwise."
+</blockquote>
 
 [Download the case study here.](http://blog.40nuggets.com/latest-ecommerce-case-study-from-40nuggets/)
 
 More testimonials:
 
 Rich from IXACT Contact, a CRM for Real Estate Agents: 
-<blockquote>"We're a self-made business and make every marketing dollar count. We switched to 40Nuggets from another technology and saw a 500% growth in lead conversions...this translated into thousands of dollars to our monthly top-line"</blockquote>
+<blockquote>"We're a self-made business and make every marketing dollar count. We switched to 40Nuggets from another technology and saw a 500% growth in lead conversions...this translated into thousands of dollars to our monthly top-line"
+</blockquote>
 
 Keith from MTI Equipment: 
-<blockquote>"As soon as we signed up I noticed we were getting more leads. They made it so easy for people to do...I would highly recommend 40Nuggets to any of my friends looking to get more leads...but not my competitors"</blockquote>
+<blockquote>"As soon as we signed up I noticed we were getting more leads. They made it so easy for people to do...I would highly recommend 40Nuggets to any of my friends looking to get more leads...but not my competitors"
+</blockquote>
 
 **
 **Powerful Filters--And Zero Hassle to Manage**
@@ -52,10 +70,6 @@ Beyond providing you with enterprise level intelligence and testing tools, 40Nug
 40Nuggets has built-in integration with Mailchimp. Through web hooks (and tools like Zapier) 40Nuggets easily integrates with email service providers like Constant Contact and others. Moreover, you export all your data at anytime.
 
 Watch a quick video tutorial of how to setup a Nugget:
-
-[youtube http://www.youtube.com/watch?v=m4IuEznrM7g]
-
-[Learn More on Our Homepage](https://40nuggets.com )
 
 == Smart Targeting ==
 
