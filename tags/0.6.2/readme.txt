@@ -19,12 +19,14 @@ Convert more of your traffic to leads by using intelligent overlay popups and sm
 * Nuggets are user-friendly popups that get you results
 
 Use Nuggets to:
+
 * Build your newsletter opt-in list
 * Offer coupons
 * Capture bouncing traffic (exit-intent)
 * Support your visitors
  
 Features:
+
 * Select a theme or customize your own
 * Mobile friendly
 * Geo-targeting
