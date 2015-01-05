@@ -12,10 +12,9 @@ Convert more of your traffic to leads by using intelligent overlay popups and sm
 
 == Description ==
 
-**Looking to grow your website's conversion rates? 40Nuggets is your easy solution.**
+**Looking to grow your website's conversions without spamming your visitors? 40Nuggets is your easy solution.**
 
 * Improve conversion rates by up to 40%
-* Get more conversions without spamming your visitors
 * Build your newsletter opt-in list
 * Offer coupons
 * Capture bouncing traffic (exit-intent)
