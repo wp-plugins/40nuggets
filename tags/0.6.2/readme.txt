@@ -69,8 +69,6 @@ Beyond providing you with enterprise level intelligence and testing tools, 40Nug
 **Easy Integration**
 40Nuggets has built-in integration with Mailchimp. Through web hooks (and tools like Zapier) 40Nuggets easily integrates with email service providers like Constant Contact and others. Moreover, you export all your data at anytime.
 
-Watch a quick video tutorial of how to setup a Nugget:
-
 == Smart Targeting ==
 
 40Nuggets plugin can learn audience behavior on your site so as to make sure each inbound visitor is being targeted at the right time with the nugget that they're most likely to convert on. 
