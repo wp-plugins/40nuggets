@@ -44,8 +44,9 @@ Overlay popups are a powerful way to convert more of your traffic into leads. Ho
 Advanced users can access a complete HTML/CSS/JS 40Nuggets editor, allowing virtually any form of nugget or adjustment to a website - you can even pass custom data to 40Nuggets.
 Nuggets are customizable in any language - use geo targeting to create Nuggets for individuals from different countries in the language they read!
 
-**
-Here's a quote from a 40Nuggets Customer, Galya Harish, CEO of Rose of Bethlehem, a boutique jewelry eCommerce seller. In 45 days, 40Nuggets increased Rose's conversion rate by 10x: 
+[Learn how SMBs are using 40Nuggets in this Inc.com write up](http://www.inc.com/ilya-pozin/survival-of-the-biggest-three-tools-to-help-online-smbs-compete.html)
+
+**Here's a quote from a 40Nuggets Customer**, Galya Harish, CEO of Rose of Bethlehem, a boutique jewelry eCommerce seller. In 45 days, 40Nuggets increased Rose's conversion rate by 10x: 
 
 <blockquote>"40Nuggets quite simply got us more leads from our traffic without once having to resort to programmers. We could do sophisticated targeting, and make changes on the fly -- their algorithms made it all work. We saved money because we captured numerous sales leads for much less the cost of acquiring them otherwise."
 </blockquote>
@@ -68,8 +69,6 @@ Beyond providing you with enterprise level intelligence and testing tools, 40Nug
 
 **Easy Integration**
 40Nuggets has built-in integration with Mailchimp. Through web hooks (and tools like Zapier) 40Nuggets easily integrates with email service providers like Constant Contact and others. Moreover, you export all your data at anytime.
-
-Watch a quick video tutorial of how to setup a Nugget:
 
 == Smart Targeting ==
 
