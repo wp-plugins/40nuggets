@@ -44,7 +44,7 @@ Overlay popups are a powerful way to convert more of your traffic into leads. Ho
 Advanced users can access a complete HTML/CSS/JS 40Nuggets editor, allowing virtually any form of nugget or adjustment to a website - you can even pass custom data to 40Nuggets.
 Nuggets are customizable in any language - use geo targeting to create Nuggets for individuals from different countries in the language they read!
 
-[Learn how SMBs are using 40Nuggets in this Inc.com write up](http://www.inc.com/ilya-pozin/survival-of-the-biggest-three-tools-to-help-online-smbs-compete.html)
+[Learn how SMBs are using 40Nuggets in this Inc.com write up.](http://www.inc.com/ilya-pozin/survival-of-the-biggest-three-tools-to-help-online-smbs-compete.html)
 
 **Here's a quote from a 40Nuggets Customer**, Galya Harish, CEO of Rose of Bethlehem, a boutique jewelry eCommerce seller. In 45 days, 40Nuggets increased Rose's conversion rate by 10x: 
 
