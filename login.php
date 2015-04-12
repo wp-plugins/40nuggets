@@ -3,7 +3,8 @@
 $form = get_magic_quotes_gpc() ? my_stripslashes_deep($_REQUEST) : $_REQUEST;
 
 if (isset($form['redeem-account'])){
-	//login		
+	//login
+	$plugin = new Fortynuggets_Plugin();
 	if ($plugin->login($form["email"], $form["password"])){
 		$url = $plugin->getURL("home");
 		$url = $plugin->getURL("home");
