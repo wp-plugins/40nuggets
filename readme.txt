@@ -4,7 +4,7 @@ Donate link:
 Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO, lead-capture, popup, popover, lightbox, light box, lightbox pop, light box pop, optin lead capture, web form, web forms, landing page, call to action, call-to-action, 40Nuggets
 Requires at least: 3.3
 Tested up to: 4.1.1
-Stable tag: 0.6.3
+Stable tag: 0.6.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
@@ -183,6 +183,8 @@ Yes. You can always save a nuggetas a draft, and then use the small magnifying g
 Email us anytime at support@40nuggets.com or connect with us on Twitter [@40nuggets](twitter.com/40nuggets )
 
 == Changelog ==
+= 0.6.4 =
+Allow for placing 40Nuggets' snippet code manually when server prevents server->server communication.
 = 0.6.3 =
 Fix issue where in some cases one can't associate WP with 40Nuggets account
 = 0.6.2 =

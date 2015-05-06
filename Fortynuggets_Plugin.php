@@ -153,4 +153,12 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 	public function get_options (){
 		return json_decode(base64_decode(get_option('40nm-options')));
 	}
+	
+	public function set_api_key ($api_key){
+		$options = $this->get_options();
+		$options->api_key = $api_key;
+		//Convert $options from Object to Array (set_options takes an array not an object)
+		$data = json_decode(json_encode($options),true);
+		$this->save_options($data);
+	}	
 }

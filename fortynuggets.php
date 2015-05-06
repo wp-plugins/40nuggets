@@ -2,7 +2,7 @@
 /*
    Plugin Name: Conversion Optimization by 40Nuggets
    Plugin URI: http://wordpress.org/extend/plugins/40nuggets/
-   Version: 0.6.3
+   Version: 0.6.4
    Author: 40Nuggets Ltd.
    Description: Convert more of your traffic to lead by using intelligent overlay popups and smart targeting. 
    Text Domain: 40Nuggets
