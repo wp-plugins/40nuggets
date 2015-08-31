@@ -111,7 +111,7 @@ function showLoginForm($email, $api_key){
 
 function my_stripslashes_deep($value){
 	$value = is_array($value) ?
-	array_map(array($this, 'stripslashes_deep'), $value) :   
+	array_map('stripslashes_deep', $value) :   
 	stripslashes($value);
 	return $value;
 }
