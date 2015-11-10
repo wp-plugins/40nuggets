@@ -1,9 +1,9 @@
 ﻿=== Conversion Optimization by 40Nuggets ===
 Contributors: eliav@40nuggets.com
 Donate link: 
-Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO, lead-capture, popup, popover, lightbox, light box, lightbox pop, light box pop, optin lead capture, web form, web forms, landing page, call to action, call-to-action, 40Nuggets
+Tags: a/b testing, activecampaign, analytics, automatic, automated marketing, aweber, bounce exchange, campaign monitor, constant contact, contact form, conversion, conversion rate optimization, CRO, email form, email list, exit-intent, exit popup, facebook, forms, fullscreen, google analytics, growth, inbound marketing,  infusionsoft, leads, lead gen, lead generation, lead generation wordpress, lightbox, lightbox optins, lightbox popup, lightbox popup plugin, lightbox popups, list growth, madmimi, mailchimp, mailerlite, mailpoet, marketing, marketing automation, marketo, mobile optin forms, mobile optins, mobile popup, mobile popups, newsletter, optin form, optin forms, optinmonster, paid traffic, pop over, popup, Popup plugin, popups, roi, screen overlay, slide in window, sidebar form, sidebar optin, sidebar optin form, site traffic, share, social media, social media marketing, subscribers, sumome, totalsend, track, tracking, traffic, welcome gate, wordpress after post optin form, wordpress lead gen,wordpress lead generation, wordpress lightbox optin, wordpress lightbox optin form,wordpress lightbox optins, wordpress mobile optin forms, wordpress mobile popup,wordpress mobile popups, wordpress optin form, wordpress overlay popup, wordpress popup,wordpress popup form, wordpress popup plugin, wordpress popup solution, wordpress popups, zapier
 Requires at least: 3.3
-Tested up to: 4.3
+Tested up to: 4.3.1
 Stable tag: 0.6.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
