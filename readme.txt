@@ -1,123 +1,62 @@
-=== Conversion Optimization by 40Nuggets ===
+﻿=== Conversion Optimization by 40Nuggets ===
 Contributors: eliav@40nuggets.com
 Donate link: 
 Tags: conversion rate optimization, overlay window, popup, conversion, conversions, personalized conversions, targeting, exit, exit targeting, exit-intent, exit popup, exit-intent plugin, email capture, AB testing, A/B testing, AB, wp email capture, lead capture, lead conversion, CRO, lead-capture, popup, popover, lightbox, light box, lightbox pop, light box pop, optin lead capture, web form, web forms, landing page, call to action, call-to-action, 40Nuggets
 Requires at least: 3.3
 Tested up to: 4.3
-Stable tag: 0.6.5
+Stable tag: 0.6.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
-Convert more of your traffic to leads by using intelligent overlay popups and smart targeting.
+Convert anonymous visitors into subscribers and customers with 40Nuggets' intelligent screen overlays
 
 == Description ==
 
-**Looking to grow your website's conversions without spamming your visitors? 40Nuggets is your easy solution.**
+You spend a lot of time and money getting people to visit your site. Sadly, there is no magic wand that will transform anonymous visitors into potential customers. **Take action to convert your visitors into leads.**
 
+40Nuggets is an easy DIY tool for conversion optimization which requires ZERO coding to use. Create, target, and launch Campaigns with screen overlays (Nuggets) that present your site visitors with offers they can’t resist, at the right time and the right place. Our interface may be simple, but our algorithm delivers powerful intelligence. No more aggressive pop-ups that are hastily dismissed by visitors. Nuggets are friendly, well-mannered, and they’re **guaranteed to convert more of your traffic into leads.**
+
+**Use 40Nuggets to:**
 * Improve conversion rates by up to 40%
-* Build your newsletter opt-in list
-* Offer coupons
 * Capture bouncing traffic (exit-intent)
-* Support your visitors
- 
-**Features:**
+* Build your opt-in subscriber base
+* Offer promos and coupons
+* Get sophisticated with your targeting
 
-* Select a theme or customize your own
-* Mobile friendly
-* Geo-targeting
-* A/B testing
-* Target visitors with advanced timing technology
-* Send data directly to MailChimp or others
-* ZERO coding required!
 
-[youtube http://www.youtube.com/watch?v=m4IuEznrM7g]
+**A Few Features:**
 
-[Learn More on Our Homepage](https://40nuggets.com )
+**Create a Nugget (intelligent screen overlay)**
+* Choose and edit beautiful, high-converting templates
+* Upload your own image
+* Automatic A/B testing
 
-*Try our absolutely free 30-day trial with our basic package and see how 40Nuggets can get you more conversions. For more information on pricing and plans starting as low as $37 [click here](https://40nuggets.com).*
+**Add A Segment**
+* Target based on visitor behavior or demographic information
+* Target based on location, browser language, device
+* Traffic source - social, paid, direct
+* Intelligent Timing: Behaviorally driven, manual, or exit-intent
 
-**What the Others Do**
-Overlay popups are a powerful way to convert more of your traffic into leads. However, most of the popover tools on WordPress are largely one-size fits all, meaning that your popover is only appropriate for a small percentage of your traffic. In many cases these popups serve to annoy your visitors, rather than convert them.
+**Build A Campaign**
+* Multi-step Campaigns are a visual map of your visitor’s journey to becoming a customer
+* Show more than one offer to visitors throughout their lifetime returning to your site
+* If a visitor doesn’t convert on your offer, show a different one next time
 
-**What We Do Better - Customization**
-40Nuggets is different. It provides you advanced segmentation tools, so you can customize messages to specific pages, specific visitor types, and more. Moreover, it puts algorithmic intelligence at your fingertips: your popup's timing will be adapted to the behavior of each and every user, giving you a huge competitive-advantage in conversions, while preserving the customer experience of your site. Moreover, Nuggets come with A/B testing--the test is managed automatically--so that you are always improving. Nuggets come in different shapes with ready made customizable themes. 
-Advanced users can access a complete HTML/CSS/JS 40Nuggets editor, allowing virtually any form of nugget or adjustment to a website - you can even pass custom data to 40Nuggets.
-Nuggets are customizable in any language - use geo targeting to create Nuggets for individuals from different countries in the language they read!
+**Integrations**
+* Keep your leads organized - send data from 40Nuggets directly to MailChimp, Constant Contact, Aweber, Salesforce, HubSpot, InfusionSoft, and more 
 
-[Learn how SMBs are using 40Nuggets in this Inc.com write up.](http://www.inc.com/ilya-pozin/survival-of-the-biggest-three-tools-to-help-online-smbs-compete.html)
+[youtube https://www.youtube.com/embed/kJAq3b6pMnQ]
 
-**Here's a quote from a 40Nuggets Customer**, Galya Harish, CEO of Rose of Bethlehem, a boutique jewelry eCommerce seller. In 45 days, 40Nuggets increased Rose's conversion rate by 10x: 
+Learn More on our [Homepage] (https://40nuggets.com/#top)
 
-<blockquote>"40Nuggets quite simply got us more leads from our traffic without once having to resort to programmers. We could do sophisticated targeting, and make changes on the fly -- their algorithms made it all work. We saved money because we captured numerous sales leads for much less the cost of acquiring them otherwise."
-</blockquote>
+**Pricing: FREE and Premium**
 
-[Download the case study here.](http://blog.40nuggets.com/latest-ecommerce-case-study-from-40nuggets/)
+Our [Pricing Plans] (https://40nuggets.com/site/pricing.php) are suited to meet the needs of small and medium businesses. Small sites can use 40Nuggets for free (up to 750 visitors per month). Beyond that we offer paid plans with optional premium support packages. 
 
-More testimonials:
 
-Rich from IXACT Contact, a CRM for Real Estate Agents: 
-<blockquote>"We're a self-made business and make every marketing dollar count. We switched to 40Nuggets from another technology and saw a 500% growth in lead conversions...this translated into thousands of dollars to our monthly top-line"
-</blockquote>
-
-Keith from MTI Equipment: 
-<blockquote>"As soon as we signed up I noticed we were getting more leads. They made it so easy for people to do...I would highly recommend 40Nuggets to any of my friends looking to get more leads...but not my competitors"
-</blockquote>
-
-**
-**Powerful Filters--And Zero Hassle to Manage**
-Beyond providing you with enterprise level intelligence and testing tools, 40Nuggets gives you as a marketer a powerful set of filters so that you can practice your craft. 40Nuggets helps you to target by exit-intent (popping up just before someone leaves the page), user-behavior targeting, targeting by specific pages on your site, device-based targeting, inbound referrer, geography, and much more. It's zero hassle to manage.
-
-**Easy Integration**
-40Nuggets has built-in integration with Mailchimp. Through web hooks (and tools like Zapier) 40Nuggets easily integrates with email service providers like Constant Contact and others. Moreover, you export all your data at anytime.
-
-== Smart Targeting ==
-
-40Nuggets plugin can learn audience behavior on your site so as to make sure each inbound visitor is being targeted at the right time with the nugget that they're most likely to convert on. 
-
-== Exit Targeting ==
-
-If you are an online marketing professional, exit targeting technology (often called exit-intent is a valuable tool to boost your conversions, or the conversions of your clients who pay you to increase their conversion rates. It works by automatically detecting when a potential lead is about to leave your site and pops up a targeted call-to-action in front of them, and may get them to stay on your site, giving you another chance to engage, which may or may not include a sale.
-
-This is similar in the real world to offering a better price to someone as they are about to leave your store. And it is all done simply and automatically using this great, new exit targeting technology.
-
-== Referral Targeting ==
-
-Video overlay windows are here! Want to put a video in one of your overlay calls-to-action? Well, now you can do exactly that. When you create a call to action just choose the Embed Code input field, and paste in the embed code from YouTube, Vimeo, or wherever you're hosting your video.
-
-== Geo Targeting ==
-
-You can target a overlay window, in realtime, to visitors from specific countries and in the US, states as well.
-
-Why is this useful?
-
-Here are a few ways:
-
-* Targeting by territory: If you?re a seller that is focused on Ohio, for example, you can now be sure that your popups are focused on approximately that population.
-* Language: You can use a popup to welcome or engage visitors from different countries in their own language. This may significantly increase your conversion rates for those regions.
-* Targeted discounts: You can offer shipping discounts to regions where it might make the difference in the buying decision.
-* Targeted Announcements: You can make announcements to people based on region.
-
-== A/B Testing ==
-
-A/B testing allows you to design different variants of the same call-to-action so you can pinpoint exactly what elements produce the highest conversions.  It's a sophisticated combination of design control for your marketing team, paired with the automated intelligence of 40Nuggets. Our brain automatically optimizes the highest converting variant, presenting it more often, so you can sit back and relax as 40Nuggets does the heavy lifting for you. It's that simple.
-
-Learn how to set up an A/B Nugget: 
-[youtube http://youtu.be/t-wHOX6bzHs]
-
-== Referral Targeting ==
-
-Do you want to show something only to people inbound from Social, Paid, or Organic? Well, now you can with source targeting. Simply assign an overlay window to a an inbound referral source and it will only show up for those visitors.
-
-== Webhooks ==
-
-Using Salesforce, Mailchimp, Aweber, Zapier, or systems? Want to send 40Nuggets conversion data to one of those tools? You can now send data through a webhook to other services you use (your webmaster or marketing agency can help you with this, or get in touch with us and we'll be happy to support).
-
-== Goals ==
-
-40Nuggets provides you with ready made popup settings for some of the most important goals on your website. You'll see them any time you try to create a popup.
-
-It's easy, it's smart, and it's streamlined.
-
+**Hear directly from our customers:**
+[vimeo https://vimeo.com/125226715]
+[vimeo https://vimeo.com/129080663]
 
 == Installation ==
 
@@ -132,57 +71,46 @@ Install 40Nuggets via the Wordpress Plugin marketplace
 
 == Screenshots ==
 
-1. Here's a Screenshot of your Dashboard Home View
-2. You have an easy to manage nugget creator
-3. Easily set up A/B Split tests
-4. Manage your nuggets from a central dashboard
-5. A large B2B nugget in action
-6. Easily send your leads to email programs like Mailchimp, tools like Zapier, and via email
+1. Dashboard Home View
+2. The Easy Nugget Builder
+3. Here's what a Campaign Map Looks Like 
+4. A Newsletter Nugget in Action
+5. Set up integrations With Your ESP or CRM
 
 
 == Frequently Asked Questions ==
 
-You can find more information about 40Nuggets including plan costs at our website [40nuggets.com ](http://40nuggets.com ). You can sees our full support resources at our [Support Desk](http://zendesk.40nuggets.com )
+1. How does 40Nuggets work on my site?  
 
-1. Where can I find pricing for 40Nuggets? 
+After you install and activate 40Nuggets,  an account will automatically be opened using your email address. A javascript code snippet will then be automatically installed on your site via WordPress. The script loads asynchronously so it will never slow down your site or load time. 40Nuggets tracks the behavior of every one of your site visitors, and our algorithm uses that information to optimize your Nuggets for the highest conversion rate.
 
-Upon installation you'll immediately activate our totally free-trial, no credit card required, basic plan. You can see information about our plans at [40Nuggets.com](https://40Nuggets.com ). Also, few days after you start using 40Nuggets you'll see a prompt in your dashboard directing you to more information about 40Nugget's plans.
+2. How does A/B testing work?
 
-2. Are there more video tutorials for 40Nuggets?
+Test two design variables against each other to see which converts the most traffic. Set it and forget it - 40Nuggets will automatically adjust the division of traffic based on the Nuggets’ performances, so you don’t waste valuable time and traffic waiting for an experiment to end. [Watch this video] (https://40nuggets.zendesk.com/hc/en-us/articles/205023816-Nuggets-A-B-Split-Testing-Different-Nugget-Designs) to learn more about our intelligent A/B testing tool.
 
-Yes! Head on over to [Support Desk](http://zendesk.40nuggets.com ) and look for the video tutorial section.
+3. Can I send data to my email service provider or CRM?
 
-3. How does A/B testing work? 
+Absolutely. 40Nuggets integrates with many softwares you might already be using, such as MailChimp, HubSpot, Salesforce, Constant Contact and [more] (https://40nuggets.zendesk.com/hc/en-us/sections/201066885-INTEGRATIONS).  You can also use a [webhook] (https://40nuggets.zendesk.com/hc/en-us/articles/202749865-Webhooks) to pass data to any URL you like.
 
-You can watch the video in the description above for a quick overview of setting up A/B testing. In short, you create multiple design variants and 40Nuggets will divide your traffic between them. 40Nuggets will automatically adjust the division of traffic based on the lightbox variants' performances. There's no need for you to manage the A/B testing. Just create the variables and let it roll.
+4. Can I target my paid traffic?
 
-4. Can I send data to my email provider, such as MailChimp, or my CRM, such as SalesForce or Insightly? 
+Yes - [targeting visitors by Custom Traffic Sources] (https://40nuggets.zendesk.com/hc/en-us/articles/204705175-Segments-Target-by-Traffic-Source) is one way to track visitors and conversions all the way through, and understand what channels are giving you the best ROI. Understanding a visitor’s path to your site can also help inform your plan for engagement.
 
-Absolutely. 
+5. How is a Nugget different than an average pop up? 
 
-First, you can always export your conversion data. Simply go to Conversions, sort as you like, and click on the little people icon in the upper left. You'll see a link to export. 
+Pop up, screen overlay, lightbox - they’re all different names for the same thing. They can be powerful tools for converting visitors - **when used correctly.** Unfortunately, most standard pop-ups just serve to annoy site visitors and get dismissed without the visitor taking the desired action. Our Nuggets convert more traffic because they are intelligently timed, beautifully designed, and “polite” - they serve as an extension of your visitor’s experience on your site, rather than an interruption.
 
-Second, you can use a web hook (you'll see this in the advanced settings of the Setup part of the nugget creator) to push data to any URL you like. This is also great for working with tools like Zapier. See our tutorial for working with Zapier over on our [Support Desk](http://zendesk.40nuggets.com ).
+6. Can I preview my Nugget before publishing? 
 
-Finally, we released an integration with MailChimp. You can find more within the dashboard or on our support hub.
-
-5. Can I export my conversion data? 
-
-Yes, you can always export your conversion data. Simply go to Conversions, sort as you like, and click on the little people icon in the upper left. You'll see a link to export.
-
-6. Where can I find conversion data? 
-
-All the data that a site-visitor enters into a popup on your site will be shown under the Conversions tab on your 40Nuggets dashboard. 
-
-7. Can I preview my nugget before publishing? 
-
-Yes. You can always save a nuggetas a draft, and then use the small magnifying glass icon on the Calls to Action dashboard to see a preview. Some functionality like submit, redirect, and web hooks may not be available in the preview mode.
+Yes. Make sure you add your website's URL in the My Accounts page. Then, when you roll over your Nugget in the Dashboard and click **Preview**, you'll see exactly how the Nugget will appear on your site. 
 
 == Support ==
 
-Email us anytime at support@40nuggets.com or connect with us on Twitter [@40nuggets](twitter.com/40nuggets )
+Email us anytime at support@40nuggets.com or connect with us on Twitter [@40nuggets](twitter.com/40nuggets) For more video tutorials and how-to articles, visit our [Support Hub.] (https://40nuggets.zendesk.com/hc/en-us)
 
 == Changelog ==
+= 0.6.6 =
+Support 40Nuggets v2
 = 0.6.5 =
 Fix issue where some users see an error when associating their account.
 Support WordPress 4.3

@@ -11,11 +11,23 @@ class Fortynuggets_Plugin_menus{
 		if (!empty($options->akl)){
 			//link sub-menus
 			$this->sub_menus();
+			add_action('admin_head', array(&$this, 'open_links_in_new_tab'));
 			//switch account submenu
 			$this->switch_accont();
 		}
 	}
 	
+	//open submenu links in new tab
+	public function open_links_in_new_tab() {
+		?>
+		<script type="text/javascript">
+			jQuery(document).ready( function($) {
+				$( "ul#adminmenu a[href*='40nuggets.com']" ).attr( 'target', '_blank' );
+			});
+		</script>
+		<?php
+	}
+
 	private function main_menu() {
 		global $menu;
 		add_menu_page(
@@ -32,9 +44,9 @@ class Fortynuggets_Plugin_menus{
 		$plugin = new Fortynuggets_Plugin();
 		//sub-menus
 		global $submenu;
-		$submenu['40Nuggets'][0] = array( 'Add New', 'manage_options' , $plugin->getURL("nuggetCreator"));
-		$submenu['40Nuggets'][1] = array( 'Manage Nuggets', 'manage_options' , $plugin->getURL("nuggetManager"));
-		$submenu['40Nuggets'][2] = array( 'Stats', 'manage_options' , $plugin->getURL("home"));
+		$submenu['40Nuggets'][0] = array( 'Dashboard', 'manage_options' , $plugin->getURL("dashboard"));
+		$submenu['40Nuggets'][1] = array( 'Add New Nugget', 'manage_options' , $plugin->getURL("nuggets/editor"));
+		$submenu['40Nuggets'][2] = array( 'Upgrade to Pro', 'manage_options' , $plugin->getURL("billing"));
 	}
 
 	private function switch_accont() {
@@ -51,5 +63,6 @@ class Fortynuggets_Plugin_menus{
 	public function submenu_login_page_display() {
 		require_once ('login.php');	
 	}
+	
 }
 ?>

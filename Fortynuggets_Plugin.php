@@ -13,18 +13,9 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
         return 'fortynuggets.php';
     }
 
-    public function activate() {
+    public function activate() {		
 		$options = $this->get_options();
-		if (empty($options->email)){
-			$shouldOpenAccount = true;
-			try {
-				$shouldOpenAccount = !file_exists(plugin_dir_path(__FILE__) . 'fortynuggets.key');
-			}catch(Exception $e) {}
-			
-			if ($shouldOpenAccount) {
-				$this->create_client();
-			}
-		}else{
+		if (!empty($options->email)){
 			$this->login($options->email, $options->password);
 		}
 	}
@@ -53,12 +44,27 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 		}
     }
 		
+	public function shouldCreateAccount() {
+		$options = $this->get_options();
+		if (empty($options->email)){
+			$shouldOpenAccount = true;
+			try {
+				$shouldOpenAccount = !file_exists(plugin_dir_path(__FILE__) . 'fortynuggets.key');
+			}catch(Exception $e) {}
+			
+			if ($shouldOpenAccount) {
+				return true;
+			}
+		}
+		return false;
+	}
+	
 	public function login($email, $password){
 		$data = array(
 			"email" => $email,
 			"password" => $password,
 		);
-		$json["client"] = $data;
+		$json["profile"] = $data;
 		$data_string = json_encode($json);   
 		
 		$response = $this->apiCall("login", "POST", $data_string);
@@ -79,14 +85,12 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 		return false; 
 	}
 
-	private function create_client(){
-		$email = get_option('admin_email');
-		$password = substr(sha1(time() . "thisisagooddaytosavelives"), 0, 8);
+	public function create_client($email, $password, $title, $url){
 		$data = array(
 			"email" => $email,
 			"password" => $password,
-			"title" => get_option('blogname'),
-			"url" => get_option('home'),
+			"title" => $title,
+			"url" => $url,
 			"is_wordpress" => true,
 		);
 		$json["client"] = $data;
@@ -95,9 +99,10 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 		$response = $this->apiCall('public/clients', "POST", $data_string);
 		if (!$response->error){
 			if (!$this->login($email, $password)){ //if login failed try again!
-				$this->login($email, $password);
+				return $this->login($email, $password);
 			}
 		}
+		return false;
 	}
 
 	private function freeze_client($state){
@@ -110,12 +115,9 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 	}
 
 	private function apiCall($api, $method="GET", $data_string=""){
-
 		$url = 'https://40nuggets.com/api/'.$api;  
 		$result = $this->httpCall($url, $method, $data_string);
-		
 		$json = json_decode($result);
-				
 		return $json;
 	}
 	
@@ -141,9 +143,9 @@ class Fortynuggets_Plugin extends Fortynuggets_LifeCycle {
 	}
 	
 	public function getURL($target){
-		$page = empty($target) ? "home" : $target;
+		$page = empty($target) ? "dashboard" : $target;
 		$options = $this->get_options();
-		return "https://40nuggets.com/dashboard2/{$page}.php?alk={$options->akl}";
+		return "https://40nuggets.com/dashboard/{$page}?alk={$options->akl}";
 	}
 
 	private function save_options ($options){
